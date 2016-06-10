@@ -1,12 +1,12 @@
 # **HW_JAVASCRIPT_AENLLE_JULIO**
 
-### [Link to repo on GitHub](https://github.com/jaenlle/hw_javascript_aenlle_julio/branches)
+### [Link to repo on GitHub](https://github.com/jaenlle/hw_javascript_aenlle_julio)
 
 ### Resources
 
 - [JavaScript Array push() Method](http://www.w3schools.com/jsref/jsref_push.asp)
   - Used for further study on adding values to an array.
-  
+
 
 - [W3Schools - JavaScript Function Parameters/Arguments](http://www.w3schools.com/js/js_function_parameters.asp)
   - Used for further study about function parameters.
