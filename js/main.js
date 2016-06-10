@@ -8,7 +8,6 @@ howdy();
 
 
 //numba
-
 var numba = function (string) {
     if (string.length < 7) {
         console.log('What a short little word!');
@@ -24,3 +23,9 @@ var numba = function (string) {
 
 
 //inception
+var movie = function inception(display, favMovie) {
+    return display + favMovie;
+};
+
+var film = movie('Jurassic Park', ' is a fantastic movie.');
+console.log(film);
